@@ -6,8 +6,8 @@ use (
 	./03userinput
 	./04conversion
 	./07mypointers
-	./08myslices
-	./09mymaps
-	./10mystructs
-	./12myswitches
+	./09myslices
+	./10mymaps
+	./12mystructs
+	./13myswitches
 )
