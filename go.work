@@ -1,0 +1,13 @@
+go 1.19
+
+use (
+	./01hello
+	./02variables
+	./03userinput
+	./04conversion
+	./07mypointers
+	./08myslices
+	./09mymaps
+	./10mystructs
+	./12myswitches
+)
