@@ -10,4 +10,7 @@ use (
 	./10mymaps
 	./12mystructs
 	./13myswitches
+	./14loops
+	./16methods
+	./17defers
 )
