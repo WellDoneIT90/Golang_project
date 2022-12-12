@@ -13,4 +13,6 @@ use (
 	./14loops
 	./16methods
 	./17defers
+	./18files
+	./19webrequests
 )
