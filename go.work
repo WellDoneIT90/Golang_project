@@ -17,4 +17,6 @@ use (
 	./19webrequests
 	./24buildapi
 	./25mongoapi
+	./26goroutines
+	./27mutexAndAwaitGroups
 )
