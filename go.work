@@ -15,4 +15,5 @@ use (
 	./17defers
 	./18files
 	./19webrequests
+	./24buildapi
 )
