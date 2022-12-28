@@ -19,4 +19,5 @@ use (
 	./25mongoapi
 	./26goroutines
 	./27mutexAndAwaitGroups
+	./28channels
 )
