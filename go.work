@@ -20,4 +20,5 @@ use (
 	./26goroutines
 	./27mutexAndAwaitGroups
 	./28channels
+	./29fiber-HRMS-App
 )
